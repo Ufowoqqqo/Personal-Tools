@@ -1,4 +1,8 @@
-//by oql
+/*by oql
+用法：在同一目录下，建立 get.txt，内容为一行三个值：文件名、最小数据编号和最大数据编号
+将生成输入文件的程序命名为 data.exe，该程序生成的文件名格式应为上面的文件名+.in
+将标程命名为 文件名.exe，输入文件为 文件名.in，输出文件为 文件名.out
+*/
 #include <cstdio>
 #include <iostream>
 #include <cstdlib>
